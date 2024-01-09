@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700&display=swap');
+
+:root{
+    /* --- space --- */
+    --space-0: 0px;
+    --space-1: 1px;
+    --space-2: 2px;
+    --space-3: 3px;
+    --space-4: 4px;
+    --space-5: 5px;
+    --space-6: 6px;
+    --space-7: 7px;
+    --space-8: 8px;
+    --space-9: 9px;
+    --space-10: 10px;
+    --space-11: 11px;
+    --space-12: 12px;
+    --space-13: 13px;
+    --space-14: 14px;
+    --space-15: 15px;
+    --space-16: 16px;
+    --space-18: 18px;
+    --space-19: 19px;
+    --space-20: 20px;
+    --space-22: 22px;
+    --space-24: 24px;
+    --space-25: 25px;
+    --space-26: 26px;
+    --space-28: 28px;
+    --space-30: 30px;
+    --space-32: 32px;
+    --space-35: 35px;
+    --space-40: 40px;
+    --space-45: 45px;
+    
+    
+    /* --- color --- */
+    --black:#000;
+    --dark:#222;
+    --white:#fff;
+    --white-10:#f2f2f2;
+    --white-40:#e9e4e4;
+    --gray:gray;
+    --red:red;
+    --red-10:rgb(255, 38, 38);
+
+    
+    
+    /* --- font size --- */
+    --paragraph-font-size:var(--space-15);
+    --anchor-font-size:var(--space-14);
+    --xs-font-size:var(--space-16);
+    --sm-font-size:var(--space-18);
+    --md-font-size:var(--space-25);
+    --lg-font-size:var(--space-30);
+    --xl-font-size:var(--space-35);
+    --xxl-font-size:var(--space-40);
+    
+    
+    /* --- border --- */
+    
+    
+    /* --- box-shadow --- */
+    
+    --font-poppins:'Poppins', sans-serif;
+    
+} 
+
+
+
+/* --- global css and class --- */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
